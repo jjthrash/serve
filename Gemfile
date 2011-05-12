@@ -10,7 +10,7 @@ gem 'tilt',             '1.2.2'
 # activesupport 3.0.x
 gem 'activesupport',    '~> 3.0.1'
 gem 'tzinfo',           '~> 0.3.23'
-gem 'i18n',             '~> 0.4.2'
+gem 'i18n',             '~> 0.5.0'
 
 group :development do
   gem 'jeweler',        '~> 1.4.0'

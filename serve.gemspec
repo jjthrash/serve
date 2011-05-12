@@ -88,7 +88,7 @@ Gem::Specification.new do |s|
       s.add_runtime_dependency(%q<tilt>, ["~> 1.2.2"])
       s.add_runtime_dependency(%q<activesupport>, ["~> 3.0.1"])
       s.add_runtime_dependency(%q<tzinfo>, ["~> 0.3.23"])
-      s.add_runtime_dependency(%q<i18n>, ["~> 0.4.1"])
+      s.add_runtime_dependency(%q<i18n>, ["~> 0.5.0"])
       s.add_development_dependency(%q<rspec>, ["~> 2.0.1"])
     else
       s.add_dependency(%q<rack>, ["~> 1.2.1"])
